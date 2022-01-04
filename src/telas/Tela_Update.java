@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package telas;
 
 import DAO.Conexao;
@@ -14,8 +9,9 @@ import static telas.Tela_Atualizar.CPFU;
 
 /**
  *
- * @author Olavo Cartaxo
+ * AUTORES: Francisca Kelen Ferreira dos Santos, Mateus Eugênio de Andrade, Thiago Natalys Ribeiro da Silva, Olavo Cartaxo.
  */
+
 public class Tela_Update extends javax.swing.JFrame {
 
     /**
