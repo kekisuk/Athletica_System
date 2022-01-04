@@ -1,12 +1,13 @@
 package functions;
 
-//import javax.swing.JOptionPane;
+/**
+ *
+ * AUTORES: Francisca Kelen Ferreira dos Santos, Mateus Eugênio de Andrade, Thiago Natalys Ribeiro da Silva, Olavo Cartaxo.
+ */
 
 public class Usuario {
 	String nome, endereco, CPF, idade, telefone;
 	Object modalidade;
-	
-    //public Usuario(){}
 
     public String getNome() {
         return nome;
@@ -56,8 +57,4 @@ public class Usuario {
         this.modalidade = object;
     }
     
-    //@Override
-    //public void pagamento() {
-      //  JOptionPane.showMessageDialog(null, "CHECAGEM: Pago com cartão");
-    //}
 }
