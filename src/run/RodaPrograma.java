@@ -1,5 +1,10 @@
 package run;
 
+/**
+ *
+ * AUTORES: Francisca Kelen Ferreira dos Santos, Mateus Eugênio de Andrade, Thiago Natalys Ribeiro da Silva, Olavo Cartaxo.
+ */
+
 import telas.Tela_Menu;
 
 public class RodaPrograma {
