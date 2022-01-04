@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *
- * AUTORES: Francisca Kelen Ferreira dos Santos, Mateus Eugênio de Andrade, Thiago Natalys Ribeiro da Silva, Lucas Antônio Ferreira Almeida, Olavo Cartaxo
+ * AUTORES: Francisca Kelen Ferreira dos Santos, Mateus Eugênio de Andrade, Thiago Natalys Ribeiro da Silva, Olavo Cartaxo.
  */
 
 public class UsuarioDAO extends ExecuteSQL {
