@@ -11,10 +11,6 @@ import functions.Usuario;
 import java.sql.Connection;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Olavo Cartaxo
- */
 public class Tela_Buscar extends javax.swing.JFrame {
 
     /**
